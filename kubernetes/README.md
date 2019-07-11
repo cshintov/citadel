@@ -28,6 +28,7 @@ Also, configure liveness and readiness probes
 
 ## Networking 
 - Fundamentals of the kubernetes networking approach. 
+    [A Guide to the Kubernetes Networking Model](https://sookocheff.com/post/kubernetes/understanding-kubernetes-networking-model/#kubernetes-basic) explains the concepts.
 - The Pause container. 
 - CNI - Container Networking Interface, CNI Plugins, what is the specification
 
